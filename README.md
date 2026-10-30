@@ -70,7 +70,7 @@ It can be used for activities such as:
 
 ## 🏗️ Lab Architecture
 
-![](1-screenshot-title-image.png)
+Screenshot 2026-10-30 074527.png
 
 
 Additional target machines can be added to the same virtual network in future projects.
@@ -81,7 +81,7 @@ Additional target machines can be added to the same virtual network in future pr
 
 | 🧩 Component       | ⚙️ Configuration   |
 | ------------------ | ------------------  |
-| 🖥️ Host OS         | Windows 10         |
+| 🖥️ Host OS         | Windows 11         |
 | 🧠 Host RAM        | 16 GB               |
 | ⚡ Processor       | Intel Core i5      |
 | 🧰 Hypervisor      | VirtualBox 7.2  |
